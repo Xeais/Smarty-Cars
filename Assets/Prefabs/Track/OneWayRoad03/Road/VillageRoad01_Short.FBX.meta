@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: ab5e4784acc292a458e05942f8504fe3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bush
+    100002: Bush 1
+    100004: Bush 10
+    100006: Bush 11
+    100008: Bush 12
+    100010: Bush 13
+    100012: Bush 14
+    100014: Bush 15
+    100016: Bush 2
+    100018: Bush 3
+    100020: Bush 4
+    100022: Bush 5
+    100024: Bush 6
+    100026: Bush 7
+    100028: Bush 8
+    100030: Bush 9
+    100032: Fence
+    100034: Fence 1
+    100036: Fence 2
+    100038: Fence 3
+    100040: Fence 4
+    100042: Fence 5
+    100044: Road
+    100046: Stone
+    100048: Stone 1
+    100050: Stone 2
+    100052: Stone 3
+    100054: Stone 4
+    100056: Stone 5
+    100058: Stone 6
+    100060: Tree
+    100062: Tree 1
+    100064: Tree 10
+    100066: Tree 2
+    100068: Tree 3
+    100070: Tree 4
+    100072: Tree 5
+    100074: Tree 6
+    100076: Tree 7
+    100078: Tree 8
+    100080: Tree 9
+    100082: //RootNode
+    400000: Bush
+    400002: Bush 1
+    400004: Bush 10
+    400006: Bush 11
+    400008: Bush 12
+    400010: Bush 13
+    400012: Bush 14
+    400014: Bush 15
+    400016: Bush 2
+    400018: Bush 3
+    400020: Bush 4
+    400022: Bush 5
+    400024: Bush 6
+    400026: Bush 7
+    400028: Bush 8
+    400030: Bush 9
+    400032: Fence
+    400034: Fence 1
+    400036: Fence 2
+    400038: Fence 3
+    400040: Fence 4
+    400042: Fence 5
+    400044: Road
+    400046: Stone
+    400048: Stone 1
+    400050: Stone 2
+    400052: Stone 3
+    400054: Stone 4
+    400056: Stone 5
+    400058: Stone 6
+    400060: Tree
+    400062: Tree 1
+    400064: Tree 10
+    400066: Tree 2
+    400068: Tree 3
+    400070: Tree 4
+    400072: Tree 5
+    400074: Tree 6
+    400076: Tree 7
+    400078: Tree 8
+    400080: Tree 9
+    400082: //RootNode
+    2300000: Bush
+    2300002: Bush 1
+    2300004: Bush 10
+    2300006: Bush 11
+    2300008: Bush 12
+    2300010: Bush 13
+    2300012: Bush 14
+    2300014: Bush 15
+    2300016: Bush 2
+    2300018: Bush 3
+    2300020: Bush 4
+    2300022: Bush 5
+    2300024: Bush 6
+    2300026: Bush 7
+    2300028: Bush 8
+    2300030: Bush 9
+    2300032: Fence
+    2300034: Fence 1
+    2300036: Fence 2
+    2300038: Fence 3
+    2300040: Fence 4
+    2300042: Fence 5
+    2300044: Road
+    2300046: Stone
+    2300048: Stone 1
+    2300050: Stone 2
+    2300052: Stone 3
+    2300054: Stone 4
+    2300056: Stone 5
+    2300058: Stone 6
+    2300060: Tree
+    2300062: Tree 1
+    2300064: Tree 10
+    2300066: Tree 2
+    2300068: Tree 3
+    2300070: Tree 4
+    2300072: Tree 5
+    2300074: Tree 6
+    2300076: Tree 7
+    2300078: Tree 8
+    2300080: Tree 9
+    3300000: Bush
+    3300002: Bush 1
+    3300004: Bush 10
+    3300006: Bush 11
+    3300008: Bush 12
+    3300010: Bush 13
+    3300012: Bush 14
+    3300014: Bush 15
+    3300016: Bush 2
+    3300018: Bush 3
+    3300020: Bush 4
+    3300022: Bush 5
+    3300024: Bush 6
+    3300026: Bush 7
+    3300028: Bush 8
+    3300030: Bush 9
+    3300032: Fence
+    3300034: Fence 1
+    3300036: Fence 2
+    3300038: Fence 3
+    3300040: Fence 4
+    3300042: Fence 5
+    3300044: Road
+    3300046: Stone
+    3300048: Stone 1
+    3300050: Stone 2
+    3300052: Stone 3
+    3300054: Stone 4
+    3300056: Stone 5
+    3300058: Stone 6
+    3300060: Tree
+    3300062: Tree 1
+    3300064: Tree 10
+    3300066: Tree 2
+    3300068: Tree 3
+    3300070: Tree 4
+    3300072: Tree 5
+    3300074: Tree 6
+    3300076: Tree 7
+    3300078: Tree 8
+    3300080: Tree 9
+    4300000: Road
+    4300002: Fence
+    4300004: Bush
+    4300006: Bush
+    4300008: Bush
+    4300010: Bush
+    4300012: Bush
+    4300014: Bush
+    4300016: Bush
+    4300018: Bush
+    4300020: Bush
+    4300022: Bush
+    4300024: Bush
+    4300026: Bush
+    4300028: Bush
+    4300030: Bush
+    4300032: Bush
+    4300034: Bush
+    4300036: Tree
+    4300038: Tree
+    4300040: Tree
+    4300042: Tree
+    4300044: Tree
+    4300046: Tree
+    4300048: Tree
+    4300050: Tree
+    4300052: Tree
+    4300054: Stone
+    4300056: Stone
+    4300058: Stone
+    4300060: Stone
+    4300062: Stone
+    4300064: Stone
+    4300066: Stone
+    4300068: Fence
+    4300070: Fence
+    4300072: Fence
+    4300074: Fence
+    4300076: Fence
+    4300078: Tree
+    4300080: Tree
+    6400000: Bush
+    6400002: Bush 1
+    6400004: Bush 10
+    6400006: Bush 11
+    6400008: Bush 12
+    6400010: Bush 13
+    6400012: Bush 14
+    6400014: Bush 15
+    6400016: Bush 2
+    6400018: Bush 3
+    6400020: Bush 4
+    6400022: Bush 5
+    6400024: Bush 6
+    6400026: Bush 7
+    6400028: Bush 8
+    6400030: Bush 9
+    6400032: Fence
+    6400034: Fence 1
+    6400036: Fence 2
+    6400038: Fence 3
+    6400040: Fence 4
+    6400042: Fence 5
+    6400044: Road
+    6400046: Stone
+    6400048: Stone 1
+    6400050: Stone 2
+    6400052: Stone 3
+    6400054: Stone 4
+    6400056: Stone 5
+    6400058: Stone 6
+    6400060: Tree
+    6400062: Tree 1
+    6400064: Tree 10
+    6400066: Tree 2
+    6400068: Tree 3
+    6400070: Tree 4
+    6400072: Tree 5
+    6400074: Tree 6
+    6400076: Tree 7
+    6400078: Tree 8
+    6400080: Tree 9
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #76'
+    second: {fileID: 2100000, guid: 73fae392577e2004ba36cda5fb679b26, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

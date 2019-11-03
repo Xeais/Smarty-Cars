@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 0ea24e80bafcc1043a5c4553043de4ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bush
+    100002: Bush 1
+    100004: Bush 2
+    100006: Bush 3
+    100008: Bush 4
+    100010: Bush 5
+    100012: Bush 6
+    100014: Bush 7
+    100016: Fence
+    100018: Fence 1
+    100020: Fence 2
+    100022: Fence 3
+    100024: Fence 4
+    100026: Fence 5
+    100028: Fence 6
+    100030: Fence 7
+    100032: Fence 8
+    100034: Fence 9
+    100036: House
+    100038: House 1
+    100040: House 10
+    100042: House 11
+    100044: House 12
+    100046: House 13
+    100048: House 14
+    100050: House 15
+    100052: House 16
+    100054: House 2
+    100056: House 3
+    100058: House 4
+    100060: House 5
+    100062: House 6
+    100064: House 7
+    100066: House 8
+    100068: House 9
+    100070: Road
+    100072: Stone
+    100074: Stone 1
+    100076: Stone 2
+    100078: Stone 3
+    100080: Stone 4
+    100082: Tree
+    100084: Tree 1
+    100086: Tree 2
+    100088: Tree 3
+    100090: Tree 4
+    100092: //RootNode
+    400000: Bush
+    400002: Bush 1
+    400004: Bush 2
+    400006: Bush 3
+    400008: Bush 4
+    400010: Bush 5
+    400012: Bush 6
+    400014: Bush 7
+    400016: Fence
+    400018: Fence 1
+    400020: Fence 2
+    400022: Fence 3
+    400024: Fence 4
+    400026: Fence 5
+    400028: Fence 6
+    400030: Fence 7
+    400032: Fence 8
+    400034: Fence 9
+    400036: House
+    400038: House 1
+    400040: House 10
+    400042: House 11
+    400044: House 12
+    400046: House 13
+    400048: House 14
+    400050: House 15
+    400052: House 16
+    400054: House 2
+    400056: House 3
+    400058: House 4
+    400060: House 5
+    400062: House 6
+    400064: House 7
+    400066: House 8
+    400068: House 9
+    400070: Road
+    400072: Stone
+    400074: Stone 1
+    400076: Stone 2
+    400078: Stone 3
+    400080: Stone 4
+    400082: Tree
+    400084: Tree 1
+    400086: Tree 2
+    400088: Tree 3
+    400090: Tree 4
+    400092: //RootNode
+    2300000: Bush
+    2300002: Bush 1
+    2300004: Bush 2
+    2300006: Bush 3
+    2300008: Bush 4
+    2300010: Bush 5
+    2300012: Bush 6
+    2300014: Bush 7
+    2300016: Fence
+    2300018: Fence 1
+    2300020: Fence 2
+    2300022: Fence 3
+    2300024: Fence 4
+    2300026: Fence 5
+    2300028: Fence 6
+    2300030: Fence 7
+    2300032: Fence 8
+    2300034: Fence 9
+    2300036: House
+    2300038: House 1
+    2300040: House 10
+    2300042: House 11
+    2300044: House 12
+    2300046: House 13
+    2300048: House 14
+    2300050: House 15
+    2300052: House 16
+    2300054: House 2
+    2300056: House 3
+    2300058: House 4
+    2300060: House 5
+    2300062: House 6
+    2300064: House 7
+    2300066: House 8
+    2300068: House 9
+    2300070: Road
+    2300072: Stone
+    2300074: Stone 1
+    2300076: Stone 2
+    2300078: Stone 3
+    2300080: Stone 4
+    2300082: Tree
+    2300084: Tree 1
+    2300086: Tree 2
+    2300088: Tree 3
+    2300090: Tree 4
+    3300000: Bush
+    3300002: Bush 1
+    3300004: Bush 2
+    3300006: Bush 3
+    3300008: Bush 4
+    3300010: Bush 5
+    3300012: Bush 6
+    3300014: Bush 7
+    3300016: Fence
+    3300018: Fence 1
+    3300020: Fence 2
+    3300022: Fence 3
+    3300024: Fence 4
+    3300026: Fence 5
+    3300028: Fence 6
+    3300030: Fence 7
+    3300032: Fence 8
+    3300034: Fence 9
+    3300036: House
+    3300038: House 1
+    3300040: House 10
+    3300042: House 11
+    3300044: House 12
+    3300046: House 13
+    3300048: House 14
+    3300050: House 15
+    3300052: House 16
+    3300054: House 2
+    3300056: House 3
+    3300058: House 4
+    3300060: House 5
+    3300062: House 6
+    3300064: House 7
+    3300066: House 8
+    3300068: House 9
+    3300070: Road
+    3300072: Stone
+    3300074: Stone 1
+    3300076: Stone 2
+    3300078: Stone 3
+    3300080: Stone 4
+    3300082: Tree
+    3300084: Tree 1
+    3300086: Tree 2
+    3300088: Tree 3
+    3300090: Tree 4
+    4300000: Bush
+    4300002: Bush
+    4300004: Bush
+    4300006: Bush
+    4300008: Bush
+    4300010: Bush
+    4300012: Tree
+    4300014: Tree
+    4300016: Tree
+    4300018: Tree
+    4300020: House
+    4300022: House
+    4300024: House
+    4300026: House
+    4300028: House
+    4300030: House
+    4300032: House
+    4300034: House
+    4300036: House
+    4300038: House
+    4300040: House
+    4300042: House
+    4300044: House
+    4300046: House
+    4300048: House
+    4300050: House
+    4300052: Stone
+    4300054: Stone
+    4300056: Stone
+    4300058: Stone
+    4300060: Stone
+    4300062: Fence
+    4300064: Fence
+    4300066: Fence
+    4300068: Fence
+    4300070: Fence
+    4300072: Fence
+    4300074: Fence
+    4300076: Fence
+    4300078: Fence
+    4300080: Fence
+    4300082: Road
+    4300084: Tree
+    4300086: Bush
+    4300088: House
+    4300090: Bush
+    6400000: Bush
+    6400002: Bush 1
+    6400004: Bush 2
+    6400006: Bush 3
+    6400008: Bush 4
+    6400010: Bush 5
+    6400012: Bush 6
+    6400014: Bush 7
+    6400016: Fence
+    6400018: Fence 1
+    6400020: Fence 2
+    6400022: Fence 3
+    6400024: Fence 4
+    6400026: Fence 5
+    6400028: Fence 6
+    6400030: Fence 7
+    6400032: Fence 8
+    6400034: Fence 9
+    6400036: House
+    6400038: House 1
+    6400040: House 10
+    6400042: House 11
+    6400044: House 12
+    6400046: House 13
+    6400048: House 14
+    6400050: House 15
+    6400052: House 16
+    6400054: House 2
+    6400056: House 3
+    6400058: House 4
+    6400060: House 5
+    6400062: House 6
+    6400064: House 7
+    6400066: House 8
+    6400068: House 9
+    6400070: Road
+    6400072: Stone
+    6400074: Stone 1
+    6400076: Stone 2
+    6400078: Stone 3
+    6400080: Stone 4
+    6400082: Tree
+    6400084: Tree 1
+    6400086: Tree 2
+    6400088: Tree 3
+    6400090: Tree 4
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #76'
+    second: {fileID: 2100000, guid: 73fae392577e2004ba36cda5fb679b26, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

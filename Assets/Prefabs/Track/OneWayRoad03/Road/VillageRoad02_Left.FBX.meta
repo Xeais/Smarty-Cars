@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 989c639c2faaa594692a43806b123c2b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bush
+    100002: Bush 1
+    100004: Bush 10
+    100006: Bush 11
+    100008: Bush 12
+    100010: Bush 13
+    100012: Bush 2
+    100014: Bush 3
+    100016: Bush 4
+    100018: Bush 5
+    100020: Bush 6
+    100022: Bush 7
+    100024: Bush 8
+    100026: Bush 9
+    100028: Fence
+    100030: Fence 1
+    100032: Fence 10
+    100034: Fence 11
+    100036: Fence 2
+    100038: Fence 3
+    100040: Fence 4
+    100042: Fence 5
+    100044: Fence 6
+    100046: Fence 7
+    100048: Fence 8
+    100050: Fence 9
+    100052: House
+    100054: House 1
+    100056: House 10
+    100058: House 11
+    100060: House 12
+    100062: House 13
+    100064: House 14
+    100066: House 15
+    100068: House 16
+    100070: House 17
+    100072: House 18
+    100074: House 19
+    100076: House 2
+    100078: House 20
+    100080: House 21
+    100082: House 22
+    100084: House 3
+    100086: House 4
+    100088: House 5
+    100090: House 6
+    100092: House 7
+    100094: House 8
+    100096: House 9
+    100098: Road
+    100100: Stone
+    100102: Stone 1
+    100104: Stone 2
+    100106: Stone 3
+    100108: Stone 4
+    100110: Stone 5
+    100112: Stone 6
+    100114: Tree
+    100116: Tree 1
+    100118: Tree 2
+    100120: Tree 3
+    100122: Tree 4
+    100124: Tree 5
+    100126: Tree 6
+    100128: Tree 7
+    100130: Tree 8
+    100132: //RootNode
+    400000: Bush
+    400002: Bush 1
+    400004: Bush 10
+    400006: Bush 11
+    400008: Bush 12
+    400010: Bush 13
+    400012: Bush 2
+    400014: Bush 3
+    400016: Bush 4
+    400018: Bush 5
+    400020: Bush 6
+    400022: Bush 7
+    400024: Bush 8
+    400026: Bush 9
+    400028: Fence
+    400030: Fence 1
+    400032: Fence 10
+    400034: Fence 11
+    400036: Fence 2
+    400038: Fence 3
+    400040: Fence 4
+    400042: Fence 5
+    400044: Fence 6
+    400046: Fence 7
+    400048: Fence 8
+    400050: Fence 9
+    400052: House
+    400054: House 1
+    400056: House 10
+    400058: House 11
+    400060: House 12
+    400062: House 13
+    400064: House 14
+    400066: House 15
+    400068: House 16
+    400070: House 17
+    400072: House 18
+    400074: House 19
+    400076: House 2
+    400078: House 20
+    400080: House 21
+    400082: House 22
+    400084: House 3
+    400086: House 4
+    400088: House 5
+    400090: House 6
+    400092: House 7
+    400094: House 8
+    400096: House 9
+    400098: Road
+    400100: Stone
+    400102: Stone 1
+    400104: Stone 2
+    400106: Stone 3
+    400108: Stone 4
+    400110: Stone 5
+    400112: Stone 6
+    400114: Tree
+    400116: Tree 1
+    400118: Tree 2
+    400120: Tree 3
+    400122: Tree 4
+    400124: Tree 5
+    400126: Tree 6
+    400128: Tree 7
+    400130: Tree 8
+    400132: //RootNode
+    2300000: Bush
+    2300002: Bush 1
+    2300004: Bush 10
+    2300006: Bush 11
+    2300008: Bush 12
+    2300010: Bush 13
+    2300012: Bush 2
+    2300014: Bush 3
+    2300016: Bush 4
+    2300018: Bush 5
+    2300020: Bush 6
+    2300022: Bush 7
+    2300024: Bush 8
+    2300026: Bush 9
+    2300028: Fence
+    2300030: Fence 1
+    2300032: Fence 10
+    2300034: Fence 11
+    2300036: Fence 2
+    2300038: Fence 3
+    2300040: Fence 4
+    2300042: Fence 5
+    2300044: Fence 6
+    2300046: Fence 7
+    2300048: Fence 8
+    2300050: Fence 9
+    2300052: House
+    2300054: House 1
+    2300056: House 10
+    2300058: House 11
+    2300060: House 12
+    2300062: House 13
+    2300064: House 14
+    2300066: House 15
+    2300068: House 16
+    2300070: House 17
+    2300072: House 18
+    2300074: House 19
+    2300076: House 2
+    2300078: House 20
+    2300080: House 21
+    2300082: House 22
+    2300084: House 3
+    2300086: House 4
+    2300088: House 5
+    2300090: House 6
+    2300092: House 7
+    2300094: House 8
+    2300096: House 9
+    2300098: Road
+    2300100: Stone
+    2300102: Stone 1
+    2300104: Stone 2
+    2300106: Stone 3
+    2300108: Stone 4
+    2300110: Stone 5
+    2300112: Stone 6
+    2300114: Tree
+    2300116: Tree 1
+    2300118: Tree 2
+    2300120: Tree 3
+    2300122: Tree 4
+    2300124: Tree 5
+    2300126: Tree 6
+    2300128: Tree 7
+    2300130: Tree 8
+    3300000: Bush
+    3300002: Bush 1
+    3300004: Bush 10
+    3300006: Bush 11
+    3300008: Bush 12
+    3300010: Bush 13
+    3300012: Bush 2
+    3300014: Bush 3
+    3300016: Bush 4
+    3300018: Bush 5
+    3300020: Bush 6
+    3300022: Bush 7
+    3300024: Bush 8
+    3300026: Bush 9
+    3300028: Fence
+    3300030: Fence 1
+    3300032: Fence 10
+    3300034: Fence 11
+    3300036: Fence 2
+    3300038: Fence 3
+    3300040: Fence 4
+    3300042: Fence 5
+    3300044: Fence 6
+    3300046: Fence 7
+    3300048: Fence 8
+    3300050: Fence 9
+    3300052: House
+    3300054: House 1
+    3300056: House 10
+    3300058: House 11
+    3300060: House 12
+    3300062: House 13
+    3300064: House 14
+    3300066: House 15
+    3300068: House 16
+    3300070: House 17
+    3300072: House 18
+    3300074: House 19
+    3300076: House 2
+    3300078: House 20
+    3300080: House 21
+    3300082: House 22
+    3300084: House 3
+    3300086: House 4
+    3300088: House 5
+    3300090: House 6
+    3300092: House 7
+    3300094: House 8
+    3300096: House 9
+    3300098: Road
+    3300100: Stone
+    3300102: Stone 1
+    3300104: Stone 2
+    3300106: Stone 3
+    3300108: Stone 4
+    3300110: Stone 5
+    3300112: Stone 6
+    3300114: Tree
+    3300116: Tree 1
+    3300118: Tree 2
+    3300120: Tree 3
+    3300122: Tree 4
+    3300124: Tree 5
+    3300126: Tree 6
+    3300128: Tree 7
+    3300130: Tree 8
+    4300000: Road
+    4300002: House
+    4300004: Bush
+    4300006: Bush
+    4300008: Bush
+    4300010: Bush
+    4300012: Bush
+    4300014: Tree
+    4300016: Tree
+    4300018: House
+    4300020: House
+    4300022: House
+    4300024: House
+    4300026: House
+    4300028: House
+    4300030: House
+    4300032: House
+    4300034: House
+    4300036: House
+    4300038: Stone
+    4300040: Stone
+    4300042: Stone
+    4300044: Fence
+    4300046: Fence
+    4300048: Fence
+    4300050: Fence
+    4300052: Fence
+    4300054: Fence
+    4300056: Tree
+    4300058: Tree
+    4300060: House
+    4300062: Bush
+    4300064: Bush
+    4300066: Bush
+    4300068: Bush
+    4300070: Bush
+    4300072: Tree
+    4300074: Tree
+    4300076: House
+    4300078: House
+    4300080: House
+    4300082: House
+    4300084: House
+    4300086: House
+    4300088: Tree
+    4300090: House
+    4300092: House
+    4300094: House
+    4300096: Stone
+    4300098: Stone
+    4300100: Stone
+    4300102: Fence
+    4300104: Fence
+    4300106: Fence
+    4300108: Fence
+    4300110: Fence
+    4300112: Fence
+    4300114: Tree
+    4300116: House
+    4300118: Tree
+    4300120: Bush
+    4300122: Stone
+    4300124: House
+    4300126: Bush
+    4300128: Bush
+    4300130: Bush
+    6400000: Bush
+    6400002: Bush 1
+    6400004: Bush 10
+    6400006: Bush 11
+    6400008: Bush 12
+    6400010: Bush 13
+    6400012: Bush 2
+    6400014: Bush 3
+    6400016: Bush 4
+    6400018: Bush 5
+    6400020: Bush 6
+    6400022: Bush 7
+    6400024: Bush 8
+    6400026: Bush 9
+    6400028: Fence
+    6400030: Fence 1
+    6400032: Fence 10
+    6400034: Fence 11
+    6400036: Fence 2
+    6400038: Fence 3
+    6400040: Fence 4
+    6400042: Fence 5
+    6400044: Fence 6
+    6400046: Fence 7
+    6400048: Fence 8
+    6400050: Fence 9
+    6400052: House
+    6400054: House 1
+    6400056: House 10
+    6400058: House 11
+    6400060: House 12
+    6400062: House 13
+    6400064: House 14
+    6400066: House 15
+    6400068: House 16
+    6400070: House 17
+    6400072: House 18
+    6400074: House 19
+    6400076: House 2
+    6400078: House 20
+    6400080: House 21
+    6400082: House 22
+    6400084: House 3
+    6400086: House 4
+    6400088: House 5
+    6400090: House 6
+    6400092: House 7
+    6400094: House 8
+    6400096: House 9
+    6400098: Road
+    6400100: Stone
+    6400102: Stone 1
+    6400104: Stone 2
+    6400106: Stone 3
+    6400108: Stone 4
+    6400110: Stone 5
+    6400112: Stone 6
+    6400114: Tree
+    6400116: Tree 1
+    6400118: Tree 2
+    6400120: Tree 3
+    6400122: Tree 4
+    6400124: Tree 5
+    6400126: Tree 6
+    6400128: Tree 7
+    6400130: Tree 8
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #76'
+    second: {fileID: 2100000, guid: 73fae392577e2004ba36cda5fb679b26, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
