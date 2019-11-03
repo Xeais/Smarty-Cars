@@ -1,2 +1,4 @@
-# Smarty-Cars
- Machine learning (NEAT) and a steering behaviour (waypoint-system) for cars in Unity 2019.1.5f1
+# Smarty-Cars - a short, critical examination
+In this project I have implemented two different types of AI. For **machine learning** I chose **NEAT** (Neuroevolution of augmenting topologies - https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies), since I deem it an exciting approach and I am not the only one with that assessment - there is a fair amount of reading and examples. Machine learning was also clearly my focus: the underlying neural network and its evolution are self-constructed.
+
+When you consider that every new generation consists of 50 cars, however, the stupidest quickly disappear, and ECS (Entity component system https://en.wikipedia.org/wiki/Entity_component_system) is not used (ECS is still pretty much a work in progress), it runs very decent. In the beginning, when everyone's going crazy, I've just got around 30 FPS in the editor, but that's improving very fast (among other things by thinning) and lands from 40 over to 50 at 70 FPS - with only a few survivors of a generation it settles at 80 about FPS.
