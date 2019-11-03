@@ -12,4 +12,4 @@ Past extensive research, I came to the conclusion that it is certainly a reasona
 
 In terms of performance, this approach should also be a little less taxing. A direct performance comparison of the two AI methods is rather difficult with this project since the "SmartCar" (script name), as opposed to his NEAT colleagues, can drive on a not too difficult circuit totally unrivaled. Piloting the waypoints certainly needs very little resources; the eight raycasts per vehicle (NEAT needs nine) are clearly more significant. Overall, I am very sure that this approach is generally more performant.
 
-The vehicles are all physically controlled through Unity's Wheel Colliders (https://docs.unity3d.com/Manual/class-WheelCollider.html).
+The vehicles are all physically controlled through Unity's [Wheel Colliders](https://docs.unity3d.com/Manual/class-WheelCollider.html).
