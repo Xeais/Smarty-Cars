@@ -15,6 +15,8 @@ I think all in all, measured by the significant number of (at least rather simpl
 
 Now is the time of the **steering behaviors**. I was amazed by how much more and better sources there are for car AI via machine learning. After this project, I would seriously consider using machine learning for the AI if I had to develop a racing game.
 
+![Smarty-Cars Steering Behaviour](https://user-images.githubusercontent.com/18394014/92758584-297aad80-f38f-11ea-9b90-be8d4f0732a5.png)
+
 Past extensive research, I came to the conclusion that it is certainly a reasonable choice to use a **system of traversable waypoints**. Many racing game developers choose this if they did not favour machine learning. For a more versatile solution an **approach to avoid obstacles** had to be complemented. After further internet research, my choice fell on a **sensor system**. The needed raycasts nearly drove me crazy because they are almost unpredictable in certain situations (slow vehicles, for example). I'm not the type who gives up, so I just fought it out. Finally, I can state that I am quite happy with the result.
 
 In terms of performance, this approach should also be a little less taxing. A direct performance comparison of the two AI methods is rather difficult with this project since the "SmartCar" (script name), as opposed to his NEAT colleagues, can drive on a not too difficult circuit totally unrivaled. Piloting the waypoints certainly needs very little resources; the eight raycasts per vehicle (NEAT needs nine) are clearly more significant. Overall, I am very sure that this approach is generally more performant.
