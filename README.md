@@ -3,7 +3,7 @@ In this project I have implemented two different types of AI.
 
 For **machine learning** I chose **NEAT** ([Neuroevolution of augmenting topologies](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)), since I deem it an exciting approach and I am not the only one with that assessment - there is a fair amount of reading and examples. Machine learning was also clearly my focus: the underlying neural network and its evolution are self-constructed.
 
-![Smarty-Cars NEAT](https://user-images.githubusercontent.com/18394014/92758196-bffa9f00-f38e-11ea-8ede-e86b43d99010.png)
+![Smarty-Cars NEAT](https://user-images.githubusercontent.com/18394014/92759209-c89fa500-f38f-11ea-803d-0c8b815c61d9.png)
 
 When you consider that every new generation consists of 50 cars (however, the stupidest quickly disappear) and ECS ([Entity component system](https://en.wikipedia.org/wiki/Entity_component_system)) is not used (ECS is still pretty much a work in progress), it runs very decent. In the beginning, when everyone's going crazy, I've just got around 30 FPS in the editor, but that's improving very fast (among other things by thinning) and lands from 40 over to 50 at 70 FPS - with only a few survivors of a generation it settles at about 80 FPS.
 
@@ -15,7 +15,7 @@ I think all in all, measured by the significant number of (at least rather simpl
 
 Now is the time of the **steering behaviors**. I was amazed by how much more and better sources there are for car AI via machine learning. After this project, I would seriously consider using machine learning for the AI if I had to develop a racing game.
 
-![Smarty-Cars Steering Behaviour](https://user-images.githubusercontent.com/18394014/92758584-297aad80-f38f-11ea-9b90-be8d4f0732a5.png)
+![Smarty-Cars Steering Behaviour](https://user-images.githubusercontent.com/18394014/92759234-cf2e1c80-f38f-11ea-9646-846164c359da.png)
 
 Past extensive research, I came to the conclusion that it is certainly a reasonable choice to use a **system of traversable waypoints**. Many racing game developers choose this if they did not favour machine learning. For a more versatile solution an **approach to avoid obstacles** had to be complemented. After further internet research, my choice fell on a **sensor system**. The needed raycasts nearly drove me crazy because they are almost unpredictable in certain situations (slow vehicles, for example). I'm not the type who gives up, so I just fought it out. Finally, I can state that I am quite happy with the result.
 
